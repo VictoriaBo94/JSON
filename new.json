@@ -1,8 +1,9 @@
-"qwerty"
+{
+	"name": "Victoria",
+	"age": 27,
+	"pets": "none",
+	"futureSalary": "1000$"
 
-12345678
-1234567
-12345
 
-"qwerty"
-
+    
+}
