@@ -1,3 +1,14 @@
 {
-123
+  "title": "User is unable to login in app",
+  "type": "Functional",
+  "frequency": "Every Time",
+  "priority": "High",
+  "environment": "iPhone 12 mini / iOS 15.2.1",
+  "actionPerformed": [
+      "1": "Open app",
+      "2": "Click on Login button",
+      "3": "Type your email and password in fields",
+      "4": "Click on Sign in button"],
+  "expectedResult": "User should be able to login in app",
+  "actualResult": "User is unable to login in app"
 }
